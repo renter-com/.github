@@ -21,3 +21,7 @@ Flows:
 - Get auto notified about un-occupied properties by the landlords.
 - Check reports regarding their past deals.
 - Broadcast query for available properties in regions to other brokers/landlords.
+
+## Architectural Diagram
+
+![Architectural Diagram](/renter_arch_diagram.png)
